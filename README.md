@@ -1,8 +1,8 @@
 # Heading 1
 # Heading 2
 
-** BO **
+**BO**
 _Italic_
 
-' inline code '
+'inline code'
 -bullet
