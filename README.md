@@ -3,3 +3,6 @@
 
 ** BO **
 _Italic_
+
+' inline code '
+-bullet
